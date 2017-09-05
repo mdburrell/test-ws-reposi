@@ -1,2 +1,2 @@
-# test-ws-reposi
-Test repository for Workshop
+# Fall Workshop S Stanley
+This is a Git Workshop
